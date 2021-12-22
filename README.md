@@ -2,7 +2,7 @@
 I'm Tristan.
 
 ## Current Projects
-- None (Check Back Soon 👀)
+- [Exo Development](https://exodevelopment.xyz)
 
 ## Skills
 - 👨‍💻 JavaScript, C#, C++, Java, TypeScript, Lua
