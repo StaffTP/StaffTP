@@ -17,5 +17,5 @@ I'm Tristan.
 
 ## Contact
 - [GitHub](https://github.com/StaffTP)
-- [Tristan#9731](524753831242760207) on Discord **Most Used!**
+- [Tristan#9731](524753831242760207) on Discord **__Most Used!__**
 - [@NotStaffTP](https://twitter.com/NotStaffTP) on Twitter!
